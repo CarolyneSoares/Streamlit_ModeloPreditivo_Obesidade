@@ -68,8 +68,8 @@ O objetivo deste projeto é:
 ---
 ## 👩‍💻 Autoras
 
-Carolyne Rafaella Soares Costa (RM361016)
-Natane Cezario Barbosa (RM362783)
+- Carolyne Rafaella Soares Costa (RM361016)
+- Natane Cezario Barbosa (RM362783)
 
 
 
